@@ -1,3 +1,5 @@
+#EXTM3U  url-tvg="https://raw.githubusercontent.com/Yanrezzkurniawan/playlist/refs/heads/main/getplaylist.xml,"refresh="5"
+
 <==================================== OLAHRAGA LENGKAP =========================================>
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyKbV8hQVg2MowvHrQqUn36IRM2_tmlxFotQ&usqp=CAU" group-title="OLAHRAGA LENGKAP", @Full_Senyum 
