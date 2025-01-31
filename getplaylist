@@ -1651,10 +1651,16 @@ https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
+#EXTINF:-1 group-title="CHANNEL+62",SCTV HD
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/32
+
 #EXTINF:0 tvg-id="outdoor" group-title="CHANNEL+62",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/s/s07/02.m3u8
+
+#EXTINF:-1 group-title="CHANNEL+62",ANTV cdg
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/31
 
 #EXTINF:0 tvg-id="outdoor" group-title="CHANNEL+62",MNCTV
 #EXTVLCOPT:http-user-agent=android-R+
@@ -1675,9 +1681,21 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
+#EXTINF:-1 group-title="CHANNEL+62",TransTV cdg
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/34
+
+#EXTINF:-1 group-title="CHANNEL+62",TransTV cdg 2
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/929
+
 #EXTINF:0 tvg-id="outdoor" group-title="CHANNEL+62",Trans7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL+62",Trans7 cdg
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/35
+
+#EXTINF:-1 group-title="CHANNEL+62",Trans7 cdg 2
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/930
 
 #EXTINF:0 tvg-id="outdoor" group-title="CHANNEL+62",INews
 #EXTVLCOPT:http-user-agent=android-R+
@@ -1688,9 +1706,13 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
+#EXTINF:-1 group-title="CHANNEL+62",NetTV cdg 
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/24
+
 #EXTINF:0 tvg-id="outdoor" group-title="CHANNEL+62",TVOne
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+
 
 
 
